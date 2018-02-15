@@ -1,5 +1,5 @@
 # Aureus
-Aureus is a comprehensive Discord made in Python 3.5 with Discord.py.
+Aureus is a comprehensive Discord bot made in Python 3.5 with Discord.py.
 
 
 Aureus' main features fit within the following categories:
